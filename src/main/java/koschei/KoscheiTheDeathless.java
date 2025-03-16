@@ -16,5 +16,5 @@ public class KoscheiTheDeathless {
     @Autowired
     public void setOcean(Ocean1 ocean) {
         this.ocean = ocean;
-    }
+    } //через сеттер
 }
